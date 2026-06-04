@@ -1,0 +1,9 @@
+metric,value
+Rows,21613.0
+Columns after cleanup,20.0
+Median sale price,450000.0
+Average sale price,540088.14
+Minimum sale price,75000.0
+Maximum sale price,7700000.0
+Missing bedrooms after imputation,0.0
+Missing bathrooms after imputation,0.0

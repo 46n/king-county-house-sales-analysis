@@ -1,0 +1,6 @@
+criteria,model,features,evaluation,r_squared
+Q6,Linear Regression,sqft_living,Full dataset,0.4928532179037931
+Q7,Linear Regression,Selected housing features,Full dataset,0.6576951666037499
+Q8,StandardScaler + PolynomialFeatures + LinearRegression,Selected housing features,Full dataset,0.7513408515988733
+Q9,"Ridge Regression, alpha=0.1",Selected housing features,Test set,0.6478759163939111
+Q10,"Degree-2 PolynomialFeatures + Ridge, alpha=0.1",Selected housing features,Test set,0.700274425025551
